@@ -1,0 +1,26 @@
+import java.util.Scanner; 
+
+public class san{ 
+
+public static void main(String args[]) 
+{
+    
+     	Scanner reader = new Scanner(System.in); 
+     	 
+     	 int a,b,z;
+     	
+     		System.out.println("Enter value for a: ");
+     		
+     		
+     		  a = reader.nextInt();  
+     		 
+     		 
+     		  System.out.println("enter value for b: ");
+     		  
+     		   b = reader.nextInt(); 
+     		    
+     		     z=a² + b²;
+     		   
+     		   System.out.println("z"); 
+}
+}
