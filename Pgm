@@ -1,13 +1,13 @@
 import java.util.Scanner; 
 
-public class san{ 
+public class aji{ 
 
 public static void main(String args[]) 
 {
     
      	Scanner reader = new Scanner(System.in); 
      	 
-     	 int a,b,z;
+     	 int a,b,sum;
      	
      		System.out.println("Enter value for a: ");
      		
@@ -19,8 +19,8 @@ public static void main(String args[])
      		  
      		   b = reader.nextInt(); 
      		    
-     		     z=a² + b²;
+     		     sum=a² + b²;
      		   
-     		   System.out.println("z"); 
+     		   System.out.println("sum"); 
 }
 }
